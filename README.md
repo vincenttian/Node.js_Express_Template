@@ -8,11 +8,11 @@ Step 2: Install Yeoman: http://yeoman.io/
 – Command: npm –g install yo
 
 Step 3: Install community generators: http://yeoman.io/community-generators.html
-- Look for a generator that fits the project specs; in this case, I used webapp
-- Command: npm install generator-webapp
+- Look for a generator that fits the project specs; in this case, I used expressapp
+- Command: npm install generator-expressapp
 
 Step 4: Scaffold a new project using generators
-- Scaffold command: yo webapp
+- Scaffold command: yo expressapp
 
 Step 5: Test project with web browser at url: http://localhost:9000
 - Run the project command: node server.js
