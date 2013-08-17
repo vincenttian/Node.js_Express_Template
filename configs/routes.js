@@ -3,7 +3,7 @@ module.exports = function(app) {
   //Index page
   app.get('/', function(req, res) {
     
-    res.render('index', { title: 'Awsome' });
+    res.render('index', { title: 'Awseome; fixed for Will' });
     
   });
 
